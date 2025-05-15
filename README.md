@@ -39,8 +39,30 @@ This project is a fully functional **E-commerce Web Application** built using **
 ## 🏠 Home Page  
 ![Screenshot 1](1.png)
 
+---
+## 🏠 SignUp/Login Page
+![Screenshot 2](2.png)
 
 ---
+## 🏠 Products Collection 
+![Screenshot 3](3.png)
 
+---
+## 🏠 Products Collection  
+![Screenshot 4](4.png)
+
+---
+## 🏠 Product Page
+![Screenshot 5](5.png)
+
+---
+## 🏠 Cart Page 
+![Screenshot 6](6.png)
+
+---
+## 🏠 Admin Panel  
+![Screenshot 7](7.png)
+
+---
 
 

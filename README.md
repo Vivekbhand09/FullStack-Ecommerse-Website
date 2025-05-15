@@ -36,4 +36,11 @@ This project is a fully functional **E-commerce Web Application** built using **
 - Razorpay API (Payment Integration)
 
 ---
+## 🏠 Home Page  
+![Screenshot 1](1.png)
+
+
+---
+
+
 
